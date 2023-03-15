@@ -1,6 +1,6 @@
 package JavaDemos;
 
-public class Conditions {
+public class IfStatement {
     public static void main(String[] args) {
 
         int number = 24;
